@@ -9,5 +9,3 @@
 ### Interests → accessibility, really fast websites, data journalism, free data, system design
 
 ### Open for opportunities → joshellington@gmail.com
-
-![](https://joshellington.com/josh-ellington.jpg)
