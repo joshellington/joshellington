@@ -1,16 +1,13 @@
-### Hi there 👋
+🤙
 
-<!--
-**joshellington/joshellington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Josh Ellington → Portland, Oregon
 
-Here are some ideas to get you started:
+### Engineering leader with 12 years of experience up and down the stack, from building cutting edge client-side experiences to scaling enterprise-level cloud infrastructures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recently → Nike Project Move, wastewater treatment ML startup, COVID Tracking Project, various things for Google, Facebook D&I
+
+### Interests → accessibility, really fast websites, data journalism, free data, system design
+
+### Open for opportunities → joshellington@gmail.com
+
+![](https://joshellington.com/josh-ellington.jpg)
